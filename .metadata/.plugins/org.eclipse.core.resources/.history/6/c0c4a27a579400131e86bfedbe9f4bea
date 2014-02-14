@@ -1,0 +1,23 @@
+package mikefun10;
+ 
+	import java.util.*;
+public class Window {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Scanner myScanner = new Scanner(System.in);
+		String answer = myScanner.nextLine();
+		System.out.println("Who are you?");
+		if( answer == "Helgraf the great" ){
+			System.out.println("You may pass sir");
+		}
+		else{
+			System.out.println("you shall not pass");
+		}
+		System.out.println("Hi I think I have done this code enough by now :P");
+
+	}
+
+}
