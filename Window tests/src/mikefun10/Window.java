@@ -33,7 +33,6 @@ public class Window {
 		 frame.pack();
 		 frame.setVisible(true);
 		 
-		//System.out.println("Hi I think I have done this code enough by now :P");
 
 	}
 
